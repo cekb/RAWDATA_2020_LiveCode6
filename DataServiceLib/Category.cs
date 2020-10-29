@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataServiceLib
 {
+    //fuck!
     public class Category
     {
         public int Id { get; set; }
